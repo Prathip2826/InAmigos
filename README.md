@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[View Live Site](https://your-site-name.netlify.app)** *(update this after deployment)*
+👉 **[View Live Site](https://inamigos-foundation1.netlify.app/)** *(update this after deployment)*
 
 ---
 
